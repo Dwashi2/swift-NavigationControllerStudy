@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		56EB50E8269FA17100E86E86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EB50E7269FA17100E86E86 /* AppDelegate.swift */; };
 		56EB50EA269FA17100E86E86 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EB50E9269FA17100E86E86 /* SceneDelegate.swift */; };
-		56EB50EC269FA17100E86E86 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EB50EB269FA17100E86E86 /* ViewController.swift */; };
+		56EB50EC269FA17100E86E86 /* Tela1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EB50EB269FA17100E86E86 /* Tela1ViewController.swift */; };
 		56EB50EF269FA17100E86E86 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EB50ED269FA17100E86E86 /* Main.storyboard */; };
 		56EB50F1269FA17400E86E86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56EB50F0269FA17400E86E86 /* Assets.xcassets */; };
 		56EB50F4269FA17400E86E86 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EB50F2269FA17400E86E86 /* LaunchScreen.storyboard */; };
+		56EB50FD269FA36200E86E86 /* Tela2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EB50FC269FA36200E86E86 /* Tela2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		56EB50E4269FA17100E86E86 /* NavigationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56EB50E7269FA17100E86E86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56EB50E9269FA17100E86E86 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		56EB50EB269FA17100E86E86 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		56EB50EB269FA17100E86E86 /* Tela1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela1ViewController.swift; sourceTree = "<group>"; };
 		56EB50EE269FA17100E86E86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		56EB50F0269FA17400E86E86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56EB50F3269FA17400E86E86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56EB50F5269FA17400E86E86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56EB50FC269FA36200E86E86 /* Tela2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,9 @@
 			children = (
 				56EB50E7269FA17100E86E86 /* AppDelegate.swift */,
 				56EB50E9269FA17100E86E86 /* SceneDelegate.swift */,
-				56EB50EB269FA17100E86E86 /* ViewController.swift */,
+				56EB50EB269FA17100E86E86 /* Tela1ViewController.swift */,
 				56EB50ED269FA17100E86E86 /* Main.storyboard */,
+				56EB50FC269FA36200E86E86 /* Tela2ViewController.swift */,
 				56EB50F0269FA17400E86E86 /* Assets.xcassets */,
 				56EB50F2269FA17400E86E86 /* LaunchScreen.storyboard */,
 				56EB50F5269FA17400E86E86 /* Info.plist */,
@@ -137,9 +140,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56EB50EC269FA17100E86E86 /* ViewController.swift in Sources */,
+				56EB50EC269FA17100E86E86 /* Tela1ViewController.swift in Sources */,
 				56EB50E8269FA17100E86E86 /* AppDelegate.swift in Sources */,
 				56EB50EA269FA17100E86E86 /* SceneDelegate.swift in Sources */,
+				56EB50FD269FA36200E86E86 /* Tela2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
