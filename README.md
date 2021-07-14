@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-NavigationControllerStudy/blob/main/1.png" width="248">
 </p>
  
  
